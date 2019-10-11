@@ -1,0 +1,37 @@
+
+.inici{
+  height: 100vh ;
+  background-image: url("C:\\Users\\CommonUser\\Documents\\Sthef-Delicios\\imagen\\ini.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.top-nav-collapse{
+  background-color: #262626;
+}
+
+.sob{
+  height: 50vh;
+  background-image: url("C:\\Users\\CommonUser\\Documents\\Sthef-Delicios\\imagen\\subr.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.contc{
+  height: 50vh;
+  background-image: url("C:\\Users\\CommonUser\\Documents\\Sthef-Delicios\\imagen\\cont.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+#texto{
+  background-color: #8f8f8f !important;
+  opacity: 0.5;
+
+}
+#textoback{
+visibility: visible !important;
+ color: rgb(255, 255, 255);
+}
