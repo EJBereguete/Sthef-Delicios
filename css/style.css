@@ -1,7 +1,7 @@
 
 .inici{
   height: 100vh ;
-  background-image: url("C:\\Users\\CommonUser\\Downloads\\Sthef-Delicios\\imagen\\ini.jpg");
+  background-image: url("https://i.ibb.co/QMXB491/ini.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -11,7 +11,7 @@
 
 .sob{
   height: 50vh;
-  background-image: url("C:\\Users\\CommonUser\\Downloads\\Sthef-Delicios\\imagen\\subr.jpg");
+  background-image: url("https://i.ibb.co/StTnh5x/subr.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -20,7 +20,7 @@
 
 .contc{
   height: 50vh;
-  background-image: url("C:\\Users\\CommonUser\\Downloads\\Sthef-Delicios\\imagen\\cont.jpg");
+  background-image: url("https://i.ibb.co/PYdvNH9/cont.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
